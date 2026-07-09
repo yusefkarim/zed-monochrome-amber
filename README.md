@@ -1,4 +1,4 @@
-# Monochrome Amber
+# Monochrome Amber Zed Theme
 
 A theme for [Zed](https://zed.dev) with a mostly-monochrome palette and warm amber accents,
 available in dark and light variants (**Monochrome Amber Dark** and **Monochrome Amber Light**).
@@ -31,12 +31,12 @@ registry. To submit:
 3. Add your repo as a git submodule under `extensions/`:
    ```
    git submodule add https://github.com/yusefkarim/zed-monochrome-amber \
-     extensions/monochrome-amber
+     extensions/monochrome-amber-theme
    ```
 4. Add an entry to the top-level `extensions.toml`:
    ```toml
-   [monochrome-amber]
-   submodule = "extensions/monochrome-amber"
+   [monochrome-amber-theme]
+   submodule = "extensions/monochrome-amber-theme"
    version = "0.1.0"
    ```
 5. Run `pnpm sort-extensions` to keep `extensions.toml` and `.gitmodules` ordered.
