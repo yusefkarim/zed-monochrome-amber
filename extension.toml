@@ -1,0 +1,7 @@
+id = "monochrome-amber"
+name = "Monochrome Amber"
+version = "0.1.0"
+schema_version = 1
+authors = ["Yusef Karim <yusefkarim@riseup.net>"]
+description = "A mostly-monochrome theme with warm amber accents, in dark and light variants, adapted from Josias Beem's Monochromator."
+repository = "https://github.com/yusefkarim/zed-monochrome-amber"
