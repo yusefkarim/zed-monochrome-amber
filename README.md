@@ -4,6 +4,12 @@ A theme for [Zed](https://zed.dev) with a mostly-monochrome palette and warm amb
 available in dark and light variants (**Monochrome Amber Dark** and **Monochrome Amber Light**).
 Adapted by Yusef Karim from the original Monochromator theme(s) by Josias Beem.
 
+The font shown in the screenshots is [Hack](https://sourcefoundry.org/hack/).
+
+<img src="assets/dark.png" alt="Monochrome Amber Dark" width="800">
+
+<img src="assets/light.png" alt="Monochrome Amber Light" width="800">
+
 ## Install
 
 Once published, open the command palette in Zed, run `zed: extensions`, search
